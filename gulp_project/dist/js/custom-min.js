@@ -1,0 +1,1 @@
+function onNavClick(s){s.classList.contains("open")?(s.classList.remove("open"),menu.classList.remove("show")):(s.classList.add("open"),menu.classList.add("show"))}var menu=document.getElementById("main-menu");

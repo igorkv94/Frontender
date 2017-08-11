@@ -1,0 +1,9 @@
+.main-footer {
+  background-color: $main-color;
+  color: $col-footer;
+  text-align: center;
+  padding: 25px 0;
+  .main-footer__rights {
+    font-size: 1rem;
+  }
+}
